@@ -1,0 +1,5 @@
+namespace: longhorn-system
+targetCustomizations:
+- name: longhorn-testing
+  clusterGroup: wildcard-testing
+

@@ -1,4 +1,4 @@
-namespace: longhorn-system
+defaultNamespace: longhorn-system
 targetCustomizations:
 - name: longhorn-testing
   clusterGroup: wildcard-testing

@@ -1,5 +1,5 @@
 defaultNamespace: default
 targetCustomizations:
-- name: longhorn-testing
+- name: longhorn-112
   clusterGroup: wildcard-testing
 

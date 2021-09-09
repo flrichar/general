@@ -1,5 +1,5 @@
-defaultNamespace: default           
+defaultNamespace: ldapauth    
 targetCustomizations:               
 - name: ldap-auth           
-  clusterGroup: auth-clusters   
+  clusterGroup: wildcard-testing  
                                     

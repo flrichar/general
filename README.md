@@ -1,3 +1,4 @@
 ## general apps CD
-this is just for testing
+
+Some notes about this repo found here -- https://dev.to/flrichar/k3s-upgrades-with-fleet-1cd9
 

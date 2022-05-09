@@ -1,0 +1,6 @@
+defaultNamespace: default
+targetCustomizations:
+- name: upgr-orange
+  clusterGroup: zone-orange
+  dependsOn: general-default-dev-upgr
+

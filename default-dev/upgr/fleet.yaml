@@ -1,0 +1,5 @@
+defaultNamespace: default
+targetCustomizations:
+- name: upgr-orange
+  clusterGroup: zone-orange
+
